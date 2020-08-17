@@ -1,0 +1,4 @@
+name: wp-french-home
+recipe: wordpress
+config:
+  webroot: .
